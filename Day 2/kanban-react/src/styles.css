@@ -1,0 +1,16 @@
+.grocery-list {
+    border: 5px solid;
+    padding: 20px;
+    width: 250px;
+}
+
+.btn {
+    margin-top: 5px;
+    gap: 15px;
+    display: flex;
+}
+
+#input {
+    display: flex;
+    gap: 4px;
+}
